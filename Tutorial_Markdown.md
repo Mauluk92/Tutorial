@@ -103,9 +103,12 @@ multiriga
 ```
 ### 1.6 Blocchi di codice: evidenziatori di sintassi 
 Markdown permette di evidenziare la sintassi (come in un IDE!) dei linguaggi che si vogliono incorporare all'interno del testo in markdown.
-Per farlo è sufficiente usare i tre backtick e digitare subito dopo il nome del linguaggio. Esempio:
-\`\`\`python
+Per farlo è sufficiente usare i tre backtick e digitare subito dopo il nome del linguaggio. Esempio:  
+
+\`\`\`python  
+
 codice in python multi riga  
+
 \`\`\`
  
 ## 1.5 Link
