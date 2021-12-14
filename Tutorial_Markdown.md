@@ -116,10 +116,10 @@ codice in python multi riga
 Markdown può incorporare i link al suo interno (sia relativi al repository di Github, che esterni!):
 Esempio:
 ```
-[NOME DEL LINK](https:\\www.google.it)
+[NOME DEL LINK](https://www.google.it)
 ```
 La cui resa effettiva è la seguente:
-[NOME DEL LINK](https:\\www.google.it)
+[NOME DEL LINK](https://www.google.it)
 
 Se al posto dell'url di un sito inseriamo il percorso delle directory di github otteniamo lo stesso risultato.
 Questo può tornare utile nel caso in cui si voglia inserire una immagine all'interno del README.md del repository.
