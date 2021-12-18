@@ -76,7 +76,7 @@ Ora che siamo connessi possiamo creare il nostro applicativo.
 
 Scrivere sulla gitbash
 ```bash 
-heroku creare nome_progetto
+heroku create nome_progetto
 ```
 Dopodiché, una volta creato, inizializziamo il nostro repository
 ```bash
